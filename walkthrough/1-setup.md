@@ -13,7 +13,7 @@ __One Team Member__
 
 Fork the source repository:
    1. Visit https://github.com/neiloconnor/git-flow-exercise
-   2. Click the "fork" button, and choose your personal GitHub account if prompted
+   2. Click the "fork" button. Untick the checkbox to "Copy the `main` branch only". Choose your personal GitHub account if prompted
 
 Add a contributor:
    1. Read the Github guide on adding collaborators https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository

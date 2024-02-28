@@ -1,8 +1,7 @@
 # Recipe Title
 
-A short recipe description.
-
-Source: https://example.com/link/to/original/recipe/
+Choose your favourite filling for this easy, perfectly fluffy sponge cake – we've opted for lemon curd and whipped cream, but you could have jam. Perfect for afternoon tea.
+Source: https://www.bbcgoodfood.com/recipes/sponge-cake
 
 ## Ingredients
 
